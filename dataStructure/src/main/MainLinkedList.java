@@ -1,6 +1,8 @@
+package main;
+
 import datastructure.LinkedList;
 
-public class Main {
+public class MainLinkedList {
     public static void main(String[] args) {
         LinkedList list = new LinkedList("1-Saed");
         list.append("2-Manoel");
