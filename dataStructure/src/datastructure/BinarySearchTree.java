@@ -82,7 +82,7 @@ public class BinarySearchTree {
     }
 
 
-    public class Node {
+    public static class Node {
         public int value;
         public Node left;
         public Node right;
