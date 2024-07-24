@@ -1,6 +1,6 @@
 package main;
 
-import datastructure.Tree;
+import datastructurenode.Tree;
 
 public class MainTree {
     public static void main(String[] args) {

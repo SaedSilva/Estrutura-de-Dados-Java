@@ -1,4 +1,4 @@
-package datastructure;
+package datastructurenode;
 
 public class Stack {
 
@@ -31,6 +31,7 @@ public class Stack {
         }
     }
 
+    // Insere um novo elemento no topo da pilha
     public void push(int value) {
         Node newNode = new Node(value);
         if (height == 0) {
@@ -42,6 +43,7 @@ public class Stack {
         height++;
     }
 
+    // Remove o elemento do topo da pilha
     public Node pop() {
         if (height == 0) return null;
 
@@ -52,8 +54,6 @@ public class Stack {
 
         return temp;
     }
-
-
 
 
     public class Node {

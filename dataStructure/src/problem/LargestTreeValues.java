@@ -1,6 +1,6 @@
 package problem;
 
-import datastructure.Tree;
+import datastructurenode.Tree;
 
 import java.util.ArrayList;
 import java.util.List;

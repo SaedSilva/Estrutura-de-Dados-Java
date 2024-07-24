@@ -1,4 +1,4 @@
-package datastructure;
+package datastructurenode;
 
 public class Queue {
 
@@ -68,7 +68,6 @@ public class Queue {
         length--;
         return temp;
     }
-
 
     public class Node {
         int value;

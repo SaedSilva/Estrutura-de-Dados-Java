@@ -1,4 +1,4 @@
-package datastructure;
+package datastructurenode;
 
 public class BinarySearchTree {
 

@@ -1,6 +1,6 @@
 package main;
 
-import datastructure.Queue;
+import datastructurenode.Queue;
 
 public class MainQueue {
     public static void main(String[] args) {

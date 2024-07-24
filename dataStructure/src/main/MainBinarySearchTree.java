@@ -1,6 +1,6 @@
 package main;
 
-import datastructure.BinarySearchTree;
+import datastructurenode.BinarySearchTree;
 
 public class MainBinarySearchTree {
     public static void main(String[] args) {
